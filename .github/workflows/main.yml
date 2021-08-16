@@ -4,12 +4,12 @@
   uses: pemtajo/badge-readme@2.1.0
   with:
     # GitHub access token with Repo scope
-    GH_TOKEN: ${{ github.token }} # default is ${{ github.token }}
+    #GH_TOKEN: ${{ github.token }} # default is ${{ github.token }}
     # Your GitHub repository
-    REPOSITORY: ${{ github.repository }} # optional, default is ${{ github.repository }}
+    #REPOSITORY: ${{ github.repository }} # optional, default is ${{ github.repository }}
     # Add a commit message of your choice
-    COMMIT_MESSAGE: # optional, default is Updated README with new badges
+    #COMMIT_MESSAGE: # optional, default is Updated README with new badges
     # User name used in Credly
-    CREDLY_USER: ${{ github.actor }} # optional, default is ${{ github.actor }}
+    #CREDLY_USER: ${{ github.actor }} # optional, default is ${{ github.actor }}
     # The sort type for return credly badges [RECENT/POPULAR]
-    CREDLY_SORT: RECENT # optional, default is RECENT
+    #CREDLY_SORT: RECENT # optional, default is RECENT
