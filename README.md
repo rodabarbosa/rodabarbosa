@@ -13,6 +13,8 @@ I'm full time father, full stack dev and always looking forward to learn everyth
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br/>
+<br/>
 ### Badges:
 
 <!--START_SECTION:badges-->
