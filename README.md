@@ -16,11 +16,6 @@ I'm full time father, full stack dev and always looking forward to learn everyth
 <br/>
 <br/>
 
-### Badges:
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 
 [twitter]: https://twitter.com/carcasses
 [linkedin]: https://www.linkedin.com/in/rodrigoarabarbosa/
