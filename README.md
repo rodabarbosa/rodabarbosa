@@ -1,7 +1,12 @@
-### Hi there
+## 👋 Greetings, fellow code enthusiasts!
 
-I'm full time father, full stack dev and always looking forward to learn everything possible. All project available here represents a stage or a step I took to learn something new or to polish something learned.
-And by sharing these projects I'm hoping it could be at helping others.
+I'm Rodrigo, a dedicated C# developer harmonizing the worlds of technology and law. When I'm not crafting code or strumming chords on my guitar, you'll catch me navigating the dynamic landscapes of lawtechs and immersing myself in the latest gaming quests.
+
+💻 In the realm of C#, I'm weaving intricate solutions, and my coding journey extends into the fascinating domain of lawtechs. Currently, I'm delving into innovative projects in this space, pushing the boundaries of legal technology with precision and creativity.
+
+📂 Beyond the public repositories, I'm also actively shaping the future in private repos, collaborating on lawtech solutions that redefine possibilities.
+
+Whether it's coding, playing tunes, or leveling up in games, I'm always eager to connect. Explore my public endeavors, and let's share experiences, insights, or perhaps embark on a coding adventure together! 🚀🎸
 
 ---
 
