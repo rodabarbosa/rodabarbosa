@@ -66,14 +66,8 @@ Whether it's coding, playing tunes, or leveling up in games, I'm always eager to
 
 <img align="left" alt="RabbitMQ" title="rabbitmq" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" />
 
-<br/>
-
-
-
-
-
-
-
+<br />
+<br />
 ---
 
 ### Connect with me
@@ -96,3 +90,5 @@ Whether it's coding, playing tunes, or leveling up in games, I'm always eager to
 
   <img style="margin-left:2rem;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodabarbosa&layout=donut&theme=dark" alt="rodabarbosa" />
 <div/>
+
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
