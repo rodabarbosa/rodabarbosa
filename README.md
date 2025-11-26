@@ -1,94 +1,113 @@
-## 👋 Greetings, fellow code enthusiasts!
+<h1 align="center">
+  <img src="https://readme-typing-svg. herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rodrigo+Barbosa;C%23+Developer+%7C+LawTech+Enthusiast;Software+Engineer+from+Brazil" alt="Typing SVG" />
+</h1>
 
-I'm Rodrigo, a dedicated C# developer harmonizing the worlds of technology and law. When I'm not crafting code or strumming chords on my guitar, you'll catch me navigating the dynamic landscapes of lawtechs and immersing myself in the latest gaming quests.
-
-💻 In the realm of C#, I'm weaving intricate solutions, and my coding journey extends into the fascinating domain of lawtechs. Currently, I'm delving into innovative projects in this space, pushing the boundaries of legal technology with precision and creativity.
-
-📂 Beyond the public repositories, I'm also actively shaping the future in private repos, collaborating on lawtech solutions that redefine possibilities.
-
-Whether it's coding, playing tunes, or leveling up in games, I'm always eager to connect. Explore my public endeavors, and let's share experiences, insights, or perhaps embark on a coding adventure together! 🚀🎸
-
----
-
-#### Interests
-
-- 🌱 I’m currently learning everything
-
-- 👯 I’m looking to collaborate with other content creators
-
-- 🥅 Goals: Contribute to Open Source projects and learn something new
-
-- ⚡ Fun fact: I love to play guitar and games
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigoarabarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/carcasses"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://dev.to/rodbarbosa"><img src="https://img.shields.io/badge/dev.to-0A0A0A? style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rodabarbosa&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+## 👨‍💻 About Me
 
-<img align="left" alt="DOTNET" title="DOTNET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+I'm a **Software Engineer** based in **Curitiba, PR, Brazil** 🇧🇷, harmonizing the worlds of technology and law.
 
-<img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+- 🔭 Currently working at **SIRB Desenvolvimento | ICI - Instituto das Cidades Inteligentes**
+- 💼 Specialized in **C# / .NET** development with a focus on **LawTech** solutions
+- 🌱 Always learning and exploring new technologies
+- 🎸 Fun fact: I love to play **guitar** and **games** when I'm not coding
+- 👯 Open to collaborate on **Open Source projects** and **content creation**
 
-<img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+> *"Whether it's coding, playing tunes, or leveling up in games, I'm always eager to connect!"*
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
-<img align="left" alt="JavaScript" title="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-
-<img align="left" alt="QT" title="QT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-
-<img align="left" alt="GitHub" title="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img align="left" alt="Gitlab" title="gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-
-<img align="left" alt="Git" title="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="Linux" title="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<img align="left" alt="Java" title="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<img align="left" alt="Jenkins" title="jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
-
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-
-<img align="left" alt="Postgres" title="postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-
-<img align="left" alt="NUGET" title="NUGET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg"/>
-
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-
-<img align="left" alt="RabbitMQ" title="rabbitmq" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" />
-
-<br />
-<br />
 ---
 
-### Connect with me
+## 🚀 Tech Stack
 
-[<img style="margin-right: 1rem;" align="left" alt="RodBarb | LinkedIn" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][DEV]
-[<img style="margin-right: 1rem;" align="left" alt="RodBarbosa | Twitter" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img style="margin-right: 1rem;" align="left" alt="RodBarbosa | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Languages
 
-<br />
-<br />
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-[DEV]: https://dev.to/rodbarbosa
-[twitter]: https://twitter.com/carcasses
-[linkedin]: https://www.linkedin.com/in/rodrigoarabarbosa/
+### Frontend
 
-<br />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div>
-  <img style="float: left;" align="center" src="https://github-readme-stats.vercel.app/api?username=rodabarbosa&show_icons=true&theme=dark" alt="rodabarbosa" />
+### Databases
 
-  <img style="margin-left:2rem;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodabarbosa&layout=donut&theme=dark" alt="rodabarbosa" />
-<div/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rodabarbosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rodabarbosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodabarbosa&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph? username=rodabarbosa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rodabarbosa&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+🔹 Building innovative LawTech solutions
+🔹 Contributing to Open Source projects
+🔹 Exploring cloud-native architectures
+🔹 Continuous learning and improvement
+```
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/rodabarbosa">rodabarbosa</a> with ❤️</i>
+</p>
