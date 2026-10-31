@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Rodrigo+Barbosa;C%23+%2F+.NET+Developer+%7C+LawTech;Building+legal-tech%2C+APIs+%26+AI+tooling;Software+Engineer+from+Brazil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Rodrigo+Barbosa;Developer+%7C+LawTech;Building+legal-tech%2C+APIs+%26+AI+tooling;Software+Engineer+from+Brazil" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -39,7 +39,7 @@ I'm a **Software Engineer** based in **Curitiba, PR, Brazil** 🇧🇷, where te
 
 ## 🚀 Tech Stack
 
-### Languages
+### Core
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -48,21 +48,17 @@ I'm a **Software Engineer** based in **Curitiba, PR, Brazil** 🇧🇷, where te
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust" />
-</p>
-
-### Frontend
-
-<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Databases
+### Data & Messaging
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
 ### DevOps & Tools
@@ -73,10 +69,39 @@ I'm a **Software Engineer** based in **Curitiba, PR, Brazil** 🇧🇷, where te
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/LLM_Tools-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Tools" />
+</p>
+
+### 📊 Languages in Numbers (public + private)
+
+Dynamic widgets only see **public** repos — the table below is computed from **all 89** of my repositories (82 with a detected primary language). *Last updated: October 2026.*
+
+| Language | Repos | Share |
+| -------- | :---: | :---: |
+| 🟩 **C#** | 29 | 35% |
+| 🟨 JavaScript | 8 | 10% |
+| 🟫 Java | 8 | 10% |
+| 🟪 PHP | 7 | 9% |
+| 🟡 Pascal | 7 | 9% |
+| 🟥 C++ | 5 | 6% |
+| 🟦 Python | 4 | 5% |
+| 🟧 HTML | 4 | 5% |
+| 🔵 TypeScript | 2 | 2% |
+| 🟤 Rust | 2 | 2% |
+| ⚪ Others\* | 6 | 7% |
+
+\* CSS, SCSS, Less, Makefile, PowerShell and Jupyter Notebook.
+
+> 🍩 For the **live** view of my public repos, check the donut chart in [GitHub Statistics](#-github-statistics).
 
 ---
 
