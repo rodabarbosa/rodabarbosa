@@ -83,7 +83,7 @@ I'm a **Software Engineer** based in **Curitiba, PR, Brazil** 🇧🇷, where te
 
 ### 📊 Languages in Numbers (public + private)
 
-Dynamic widgets only see **public** repos — the table below is computed from **all 89** of my repositories (82 with a detected primary language). *Last updated: October 2026.*
+This is the single source of truth for my language usage — computed from **all 89** of my repositories (82 with a detected primary language), counted by primary language per repository, public and private combined. *Last updated: October 2026.*
 
 | Language | Repos | Share |
 | -------- | :---: | :---: |
@@ -100,8 +100,6 @@ Dynamic widgets only see **public** repos — the table below is computed from *
 | ⚪ Others\* | 6 | 7% |
 
 \* CSS, SCSS, Less, Makefile, PowerShell and Jupyter Notebook.
-
-> 🍩 For the **live** view of my public repos, check the donut chart in [GitHub Statistics](#-github-statistics).
 
 ---
 
@@ -125,10 +123,6 @@ Dynamic widgets only see **public** repos — the table below is computed from *
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodabarbosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=rodabarbosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodabarbosa&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
