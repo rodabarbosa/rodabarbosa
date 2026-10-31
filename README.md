@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigoarabarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/carcasses"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://dev.to/rodbarbosa"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
   <img src="https://komarev.com/ghpvc/?username=rodabarbosa&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -28,12 +27,12 @@ I'm a **Software Engineer** based in **Curitiba, PR, Brazil** 🇧🇷, where te
 
 ## 🧭 What I Build
 
-| Domain | What I do |
-| ------ | --------- |
-| ⚖️ **Legal & Justice Tech** | Case-management platforms and integrations for the Brazilian justice system |
-| 🔐 **Privacy & Security** | LGPD-compliant data anonymization tools and digitally signed PDF verification |
-| 🏙️ **Smart Cities** | Platforms powering municipal services and public safety |
-| ⚙️ **Backend Engineering** | REST APIs, messaging, multi-tenant architectures and performance benchmarking |
+| Domain                     | What I do                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| ⚖️ **Legal & Justice Tech** | Case-management platforms and integrations for the Brazilian justice system   |
+| 🔐 **Privacy & Security**   | LGPD-compliant data anonymization tools and digitally signed PDF verification |
+| 🏙️ **Smart Cities**         | Platforms powering municipal services and public safety                       |
+| ⚙️ **Backend Engineering**  | REST APIs, messaging, multi-tenant architectures and performance benchmarking |
 
 ---
 
@@ -85,19 +84,19 @@ I'm a **Software Engineer** based in **Curitiba, PR, Brazil** 🇧🇷, where te
 
 This is the single source of truth for my language usage — computed from **all 89** of my repositories (82 with a detected primary language), counted by primary language per repository, public and private combined. *Last updated: October 2026.*
 
-| Language | Repos | Share |
-| -------- | :---: | :---: |
-| 🟩 **C#** | 29 | 35% |
-| 🟨 JavaScript | 8 | 10% |
-| 🟫 Java | 8 | 10% |
-| 🟪 PHP | 7 | 9% |
-| 🟡 Pascal | 7 | 9% |
-| 🟥 C++ | 5 | 6% |
-| 🟦 Python | 4 | 5% |
-| 🟧 HTML | 4 | 5% |
-| 🔵 TypeScript | 2 | 2% |
-| 🟤 Rust | 2 | 2% |
-| ⚪ Others\* | 6 | 7% |
+| Language     | Repos | Share |
+| ------------ | :---: | :---: |
+| 🟩 **C#**     |  29   |  35%  |
+| 🟨 JavaScript |   8   |  10%  |
+| 🟫 Java       |   8   |  10%  |
+| 🟪 PHP        |   7   |  9%   |
+| 🟡 Pascal     |   7   |  9%   |
+| 🟥 C++        |   5   |  6%   |
+| 🟦 Python     |   4   |  5%   |
+| 🟧 HTML       |   4   |  5%   |
+| 🔵 TypeScript |   2   |  2%   |
+| 🟤 Rust       |   2   |  2%   |
+| ⚪ Others\*   |   6   |  7%   |
 
 \* CSS, SCSS, Less, Makefile, PowerShell and Jupyter Notebook.
 
@@ -105,16 +104,16 @@ This is the single source of truth for my language usage — computed from **all
 
 ## 📌 Featured Projects
 
-| Project | Description |
-| ------- | ----------- |
-| [**ValidationNuget**](https://github.com/rodabarbosa/ValidationNuget) | 🪪 C# library for document validation |
-| [**Sirb.CepBrasil**](https://github.com/rodabarbosa/Sirb.CepBrasil) | 📮 .NET library to search Brazilian addresses by postal code (CEP) |
-| [**opencode-tui-model-price**](https://github.com/rodabarbosa/opencode-tui-model-price) | 🤖 OpenCode plugin that shows LLM token pricing inside the TUI |
-| [**fastendpointtamplate**](https://github.com/rodabarbosa/fastendpointtamplate) | ⚡ REST API template built with FastEndpoints |
-| [**multi-tenant**](https://github.com/rodabarbosa/multi-tenant) | 🏢 Sample app demonstrating multi-tenant architecture in .NET |
-| [**BenchmarkSample**](https://github.com/rodabarbosa/BenchmarkSample) | 📏 How-to project for BenchmarkDotNet performance testing |
-| [**mediator**](https://github.com/rodabarbosa/mediator) | 🧩 Study case for the Mediator design pattern in C# |
-| [**rust-api**](https://github.com/rodabarbosa/rust-api) | 🦀 Exploring REST APIs in Rust |
+| Project                                                                                 | Description                                                       |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [**ValidationNuget**](https://github.com/rodabarbosa/ValidationNuget)                   | 🪪 C# library for document validation                              |
+| [**Sirb.CepBrasil**](https://github.com/rodabarbosa/Sirb.CepBrasil)                     | 📮 .NET library to search Brazilian addresses by postal code (CEP) |
+| [**opencode-tui-model-price**](https://github.com/rodabarbosa/opencode-tui-model-price) | 🤖 OpenCode plugin that shows LLM token pricing inside the TUI     |
+| [**fastendpointtamplate**](https://github.com/rodabarbosa/fastendpointtamplate)         | ⚡ REST API template built with FastEndpoints                      |
+| [**multi-tenant**](https://github.com/rodabarbosa/multi-tenant)                         | 🏢 Sample app demonstrating multi-tenant architecture in .NET      |
+| [**BenchmarkSample**](https://github.com/rodabarbosa/BenchmarkSample)                   | 📏 How-to project for BenchmarkDotNet performance testing          |
+| [**mediator**](https://github.com/rodabarbosa/mediator)                                 | 🧩 Study case for the Mediator design pattern in C#                |
+| [**rust-api**](https://github.com/rodabarbosa/rust-api)                                 | 🦀 Exploring REST APIs in Rust                                     |
 
 ---
 
